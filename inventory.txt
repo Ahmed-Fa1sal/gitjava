@@ -1,3 +1,4 @@
 Product: Laptop, Stock:20
 Product: table, Stock:10
 Product: Chair, stock 15
+Product: phone, stock 15
